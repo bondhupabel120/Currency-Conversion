@@ -1,0 +1,4 @@
+Please use db:seed for User A & User B or I am attatched db you can use this.
+
+For case study test, I use JWT token for authentication but somehow its not working perfectly, 
+token is mismatch, for this reason i use default web guard.
